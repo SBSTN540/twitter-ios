@@ -1,6 +1,6 @@
 # Project 3 - Twitter Client
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter-ios-client** is a basic twitter app to read your tweets.
 
 Time spent: **X** hours spent in total
 
